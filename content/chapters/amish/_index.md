@@ -50,11 +50,14 @@ lexicon:
 {{< /center >}}
 ### <i> How does an age-old community face the 21st century challenges? </i>
 
+{{< spacer height="4rem" >}}
+
 {{< local-video src="village.mp4" max_width="100%" >}}
 
 ## A - An age-Old Thriving Community  
 
 {{< local-video src="video_one.mp4" max_width="100%" >}}
+{{< spacer height="4rem" >}}
 
 ## B - Living or Leaving the Amish Life
 
@@ -69,11 +72,12 @@ lexicon:
 
 ##### Meet Barbie
 {{< local-video src="Barbie.mp4" max_width="100%" >}}
+{{< spacer height="4rem" >}}
 
 ### C - Leaving my Amish World
 
 {{< pdf src="leaving.pdf" max_width="100%" >}}
-
+{{< spacer height="4rem" >}}
 
 ### D - Changing Times
 
