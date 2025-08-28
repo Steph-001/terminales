@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Being Amish"
 linkTitle: "Amish"
 date: "2025-08-10T11:27:12+02:00"
 draft: false
@@ -52,7 +52,14 @@ lexicon:
 
 {{< spacer height="4rem" >}}
 
-{{< local-video src="village.mp4" max_width="100%" >}}
+
+
+
+{{< fullscreen-image src="intro.jpg" max_width="80%" align="right" >}}
+
+
+{{< local-video src="village.mp4" max_width="80%" align="right" >}}
+<!--
 
 ## A - An age-Old Thriving Community  
 
@@ -82,3 +89,5 @@ lexicon:
 ### D - Changing Times
 
 {{< local-video src="changing.mp4" max_width="100%" >}}
+
+--!>

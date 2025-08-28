@@ -141,3 +141,10 @@
 .text-justify {
   text-align: justify !important;
 }
+
+@media (max-width: 768px) {
+  .td-heading-self-link {
+    display: none !important;
+  }
+}
+
