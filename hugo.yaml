@@ -75,5 +75,4 @@ params:
   ui:
     navbar_logo: false
     breadcrumb_disable: false
-    showLightDarkModeMenu: true
     showLightDarkModeMenu: false

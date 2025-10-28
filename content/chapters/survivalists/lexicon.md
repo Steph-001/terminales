@@ -2,7 +2,7 @@
 title: "Lexicon"
 layout: vocab
 type: docs
-weight: 10
+weight: 2
 ---
 ### Vocab
 

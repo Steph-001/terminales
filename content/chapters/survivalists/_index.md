@@ -1,0 +1,35 @@
+---
+title: "Take Shelter"
+date: "2025-10-28T12:24:58+01:00"
+draft: false 
+weight: 1
+lexicon:
+  - term: "disaster"
+    definition: "a sudden event such as a flood, storm, or accident which causes great damage or suffering"
+    stressed: "dis*aster"
+---
+### <i>Why is survivalism so deeply rooted in American society </i>
+
+
+## In an Uncertain World
+{{< local-video src="changng.mp4" max_width="80%" align="left" >}}
+
+## A - American Preppers
+
+### Ready for the worst
+
+{{< spacer height="4rem" >}}
+
+{{< audio src="worst.mp3" width="80%" rounded="true" >}}
+
+
+### The Blevins's Preparation
+
+{{< local-video src="blevins.mp4" max_width="80%" align="right" >}}
+{{< spacer height="4rem" >}}
+
+### The origins of prepping
+
+{{< fullscreen-image src="FCDA.jpg" max_width="80%" align="left" >}}
+
+
