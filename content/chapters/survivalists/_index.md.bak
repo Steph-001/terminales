@@ -3,12 +3,79 @@ title: "Take Shelter"
 date: "2025-10-28T12:24:58+01:00"
 draft: false 
 weight: 1
+lexicon:
+  - term: "resilient"
+    definition: "résilient"
+    stressed: "res*ilient"
+  - term: "like-minded"
+    definition: "having similare ideas, opinions, etc."
+    stressed: "l*ike-m*inded"
+  - term: "accommodate"
+    definition: "provide with a certain quantity of space"
+    stressed: "acc*ommodate"
+  - term: "(to) injure"
+    definition: "blesser"
+    stressed: "(to) *injure"
+  - term: "flood"
+    definition: "inondation"
+    stressed: "flood"
+  - term: "ice storm"
+    definition: "tempête de neige"
+    stressed: "*ice storm"
+  - term: "anxiety inducing music"
+    definition: "une musique qui provoque de l'anxiété"
+    stressed: "anx*iety ind*ucing m*usic"
+  - term: "(to) assess"
+    definition: "évaluer"
+    stressed: "(to) ass*ess"
+  - term: "(to) mitigate"
+    definition: "atténuer"
+    stressed: "(to) m*itigate"
+  - term: "potential risks"
+    definition: "des riqsques éventuels"
+    stressed: "pot*ential risks"
+  - term: "conspiracy theory"
+    definition: "théorie du complot"
+    stressed: "consp*iracy th*eory"
+  - term: "stereotype"
+    definition: "stéréotype"
+    stressed: "st*ereotype"
+  - term: "stereotypical"
+    definition: "stéréotypique"
+    stressed: "stereot*ypical"
+  - term: "injury"
+    definition: "blessure"
+    stressed: "*injury"
+  - term: "(to) strike"
+    definition: "frapper"
+    stressed: "(to) strike"
+  - term: "rooted"
+    definition: "enraciné / ancré (figuratif)"
+    stressed: "r*o*oted"
+  - term: "balance"
+    definition: "équilibre"
+    stressed: "b*alance"
+  - term: "precaution"
+    definition: "précaution"
+    stressed: "prec*a*ution"
+  - term: "catastrophe"
+    definition: "catastrophe"
+    stressed: "cat*astrophe"
+  - term: "survival"
+    definition: "survie"
+    stressed: "surv*ival"
+  - term: "apocalypse"
+    definition: "apocalypse"
+    stressed: "ap*ocalypse"
+  - term: "riot"
+    definition: "émeute"
+    stressed: "r*iot"
 ---
 ### <i>Why is survivalism so deeply rooted in American society </i>
 
 
 ## In an Uncertain World
-{{< local-video src="changng.mp4" max_width="80%" align="left" >}}
+{{< local-video src="changing.mp4" max_width="80%" align="left" >}}
 
 ## A - American Preppers
 
@@ -27,5 +94,8 @@ weight: 1
 ### The origins of prepping
 
 {{< fullscreen-image src="FCDA.jpg" max_width="80%" align="left" >}}
+{{< spacer height="2rem" >}}
+{{< pdf src="origins.pdf" max_width="80%" align="left" >}}
+
 
 
