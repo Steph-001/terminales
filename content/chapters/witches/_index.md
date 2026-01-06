@@ -7,7 +7,7 @@ weight: 1
 lexicon:
   - term: "blamed for"
     definition: "feel or declare that (someone or something) is responsible for a fault or wrong."
-    stressed: "blamed for"
+    stressed: "blame for"
   - term: "cliché"
     definition: "cliché"
     stressed: "cl*iché"

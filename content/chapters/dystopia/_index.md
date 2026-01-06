@@ -6,7 +6,7 @@ draft: false
 weight: 1
 lexicon:
   - term: "dystopia"
-    definition: "An imaginary place or condition in which everything is as bad as possible."
+    definition: "An imaginary place in which everything is as bad as possible."
     stressed: "dyst*opia"
 ---
 
