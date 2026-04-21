@@ -3,7 +3,7 @@ title: "Being Amish"
 linkTitle: "Being Amish"
 date: "2025-08-10T11:27:12+02:00"
 draft: false
-weight: 1
+weight: 10
 lexicon:
   - term: "on average"
     definition: "en moyenne"

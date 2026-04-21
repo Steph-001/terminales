@@ -2,7 +2,7 @@
 title: "Take Shelter"
 date: "2025-10-28T12:24:58+01:00"
 draft: false 
-weight: 1
+weight: 9
 lexicon:
   - term: "(to) seal"
     definition: "to completely close (something) so as to prevent (air, water, bacteria, etc.) from entering or escaping"
